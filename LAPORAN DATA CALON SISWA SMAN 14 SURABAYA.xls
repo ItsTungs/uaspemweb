@@ -1,0 +1,123 @@
+<html><body><center><h3>DATA CALON SISWA SMAN 14 SURABAYA</h3></center><hr/><br/><table border="1" width ="100%">
+<tr>
+<th> PENDAFTARAN </th>
+<th> TAHUN MASUK </th>
+<th> NAMA LENGKAP </th>
+<th> JENIS KELAMIN </th>
+<th> TEMPAT LAHIR </th>
+<th> TANGGAL LAHIR</th>
+<th> ALAMAT LENGKAP</th>
+<th> NAMA AYAH</th>
+<th> PEKERJAAN AYAH</th>
+<th> PENGHASILAN AYAH</th>
+</tr><tr>
+    <td>Siswa Baru</td>
+    <td>2023-2024</td>
+    <td>NI MADE BERLIANA DESWITA RINI</td>
+    <td>Laki - laki</td>
+    <td>SINGARAJA, BALI</td>
+    <td>27-12-2002</td>
+    <td>RUNGKUT PUSKESMAS NOMOR 5</td>
+    <td>I WAYAN SUDIARGA, S.H.</td>
+    <td>JAKSA</td>
+    <td>Rp. 10,000,000</td>
+    </tr><tr>
+    <td>Siswa Baru</td>
+    <td>2023-2024</td>
+    <td>BYANCA REBECCA SITOMPUL </td>
+    <td>Perempuan</td>
+    <td>JAKARTA, INDONESIA</td>
+    <td>16-07-2003</td>
+    <td>JAKARTA UTARA, MANGGA DUA, RT 3 RW 2</td>
+    <td>IRFAN HERMANSYAH, S.E</td>
+    <td>MANAJER </td>
+    <td>Rp. 13,000,000</td>
+    </tr><tr>
+    <td>Siswa Baru</td>
+    <td>2024-2025</td>
+    <td>BAMBANG SATRIJA </td>
+    <td>Laki - laki</td>
+    <td>PACITAN, JAWA TIMUR</td>
+    <td>10-08-2003</td>
+    <td>MENANGGAL RW 4, RT 13</td>
+    <td>ZAIN DWI KUSUMA, S.I.K</td>
+    <td>POLRI </td>
+    <td>Rp. 15,000,000</td>
+    </tr><tr>
+    <td>Siswa Baru</td>
+    <td>2024-2025</td>
+    <td>TIARA ANDINI</td>
+    <td>Perempuan</td>
+    <td>KEPULAUAN RIAU, SUMATERA</td>
+    <td>10-08-2003</td>
+    <td>PURI SURYA JAYA TAMAN ATHENA H3 - 12</td>
+    <td>SUDHARMONO, S.H.</td>
+    <td>HAKIM PENGADILAN NEGERI SURABAYA</td>
+    <td>Rp. 11,000,000</td>
+    </tr><tr>
+    <td>Siswa Baru</td>
+    <td>2024-2025</td>
+    <td>SALWA AMALIA BALQIS</td>
+    <td>Perempuan</td>
+    <td>MOJOKERTO, JAWA TIMUR</td>
+    <td>10-08-2003</td>
+    <td>GRIYA PERMATA GEDANGAN JALAN JERUK D2 NO 6</td>
+    <td>AGUNG PIETER, S.P</td>
+    <td>PETANI</td>
+    <td>Rp. 8,000,000</td>
+    </tr><tr>
+    <td>Siswa Baru</td>
+    <td>2024-2025</td>
+    <td>YOSAFAT ZEBAOTH</td>
+    <td>Laki - laki</td>
+    <td>MEDAN, SUMATERA UTARA</td>
+    <td>13-06-2023</td>
+    <td>TAMAN PASADENA C3 / 09</td>
+    <td>SUBAGYO BAMBANG SUMADYO, S.Sos</td>
+    <td>PNS</td>
+    <td>Rp. 7,000,000</td>
+    </tr><tr>
+    <td>Siswa Baru</td>
+    <td>2024-2025</td>
+    <td>NATHANAEL KALADZE ERWANTO</td>
+    <td>Laki - laki</td>
+    <td>SIDOARJO, JAWA TIMUR</td>
+    <td>10-08-2003</td>
+    <td>TAMAN BOSTON K3/23</td>
+    <td>NICHOLAS NATHANAEL SUHENDAR, S.Kom</td>
+    <td>STAFF IT</td>
+    <td>Rp. 9,000,000</td>
+    </tr><tr>
+    <td>Siswa Baru</td>
+    <td>2025-2026</td>
+    <td>ALPHART JALES KUSUMAMATJA</td>
+    <td>Laki - laki</td>
+    <td>BANDUNG, JAWA BARAT</td>
+    <td>10-08-2003</td>
+    <td>TAMAN SYDNEY B5 -19</td>
+    <td>HERCULES ALATAS, S.H</td>
+    <td>JAKSA </td>
+    <td>Rp. 10,000,000</td>
+    </tr><tr>
+    <td>Siswa Baru</td>
+    <td>2025-2026</td>
+    <td>ANDI ALATAS SOEDHARMONO</td>
+    <td>Laki - laki</td>
+    <td>BALI, KABUPATEN GIANYAR</td>
+    <td>10-08-2002</td>
+    <td>PERUMAHAN GRAHA GUNUNG ANYAR F 12</td>
+    <td>MULADI SOEDHARMONO, S.H.</td>
+    <td>PENGACARA</td>
+    <td>Rp. 10,000,000</td>
+    </tr><tr>
+    <td>Siswa Baru</td>
+    <td>2025-2026</td>
+    <td>YOLANDA CANTIKA TATANGKENG</td>
+    <td>Perempuan</td>
+    <td>KEPULAUAN RIAU, SUMATERA</td>
+    <td>10-12-2004</td>
+    <td>MEDOKAN SAWAH 12</td>
+    <td>Ir. HARMOKO LUHUT SIREGAR</td>
+    <td>TENAGA AHLI KEPRESIDENAN</td>
+    <td>Rp. 17,000,000</td>
+    </tr></table></body></html>
